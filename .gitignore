@@ -12,18 +12,19 @@
 .swiftpm/
 migrate_working_dir/
 
-# IntelliJ related
+# IntelliJ / Android Studio
 *.iml
 *.ipr
 *.iws
 .idea/
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
 
-# The .vscode folder contains launch configuration and tasks you configure in
-# VS Code which you may wish to be included in version control, so this line
-# is commented out by default.
+# VS Code
 #.vscode/
 
-# Flutter/Dart/Pub related
+# Flutter / Dart / Pub
 **/doc/api/
 **/ios/Flutter/.last_build_id
 .dart_tool/
@@ -35,43 +36,49 @@ migrate_working_dir/
 /build/
 /coverage/
 
-# Symbolication related
-app.*.symbols
+# Gradle
+.gradle/
+**/android/.gradle/
 
-# Obfuscation related
-app.*.map.json
-
-# Android Studio will place build artifacts here
-/android/app/debug
-/android/app/profile
-/android/app/release
-
-# API Keys and sensitive data - IMPORTANT FOR SECURITY
+# Local configuration / sensitive files
 local.properties
+**/android/local.properties
 *.env
 .env
 .env.local
 .env.*.local
 **/.env
 
-# Additional Android files with sensitive data
+# Android build/generated files
+captures/
+.externalNativeBuild/
+.cxx/
+*.aab
+*.apk
+output-metadata.json
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Symbolication / Obfuscation
+app.*.symbols
+app.*.map.json
+
+# Android / Firebase sensitive files
 /android/key.properties
 /android/app/google-services.json
 /android/app/src/debug/google-services.json
 /android/app/src/release/google-services.json
+google-services.json
+firebase_options.dart
 
 # iOS sensitive files
 /ios/Runner/GoogleService-Info.plist
 /ios/firebase_app_id_file.json
 
-# Firebase
-firebase_options.dart
-
 # Keystore files
 *.jks
 *.keystore
 
-# Gradle files (may contain sensitive info)
-.gradle/
-**/android/.gradle/
-**/android/local.properties
+# Android Profiling
+*.hprof
