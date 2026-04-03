@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>$(DEVELOPMENT_LANGUAGE)</string>
+    <key>CFBundleDisplayName</key>
+    <string>App Fez My</string>
+    <key>CFBundleExecutable</key>
+    <string>$(EXECUTABLE_NAME)</string>
+    <key>CFBundleIdentifier</key>
+    <string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>app_fez_my</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>$(FLUTTER_BUILD_NAME)</string>
+    <key>CFBundleSignature</key>
+    <string>????</string>
+    <key>CFBundleVersion</key>
+    <string>$(FLUTTER_BUILD_NUMBER)</string>
+    <key>LSRequiresIPhoneOS</key>
+    <true/>
+    <key>UILaunchStoryboardName</key>
+    <string>LaunchScreen</string>
+    <key>UIMainStoryboardFile</key>
+    <string>Main</string>
+    <key>UISupportedInterfaceOrientations</key>
+    <array>
+       <string>UIInterfaceOrientationPortrait</string>
+       <string>UIInterfaceOrientationLandscapeLeft</string>
+       <string>UIInterfaceOrientationLandscapeRight</string>
+    </array>
+    <key>UISupportedInterfaceOrientations~ipad</key>
+    <array>
+       <string>UIInterfaceOrientationPortrait</string>
+       <string>UIInterfaceOrientationPortraitUpsideDown</string>
+       <string>UIInterfaceOrientationLandscapeLeft</string>
+       <string>UIInterfaceOrientationLandscapeRight</string>
+    </array>
+    <key>CADisableMinimumFrameDurationOnPhone</key>
+    <true/>
+    <key>UIApplicationSupportsIndirectInputEvents</key>
+    <true/>
+
+    <!-- ========================================= -->
+    <!-- LOCATION PERMISSIONS - REQUIRED FOR MAPS -->
+    <!-- ========================================= -->
+
+    <!-- When app is in use -->
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>We need your location to show nearby historical sites and provide directions</string>
+
+    <!-- Always (if needed for background) -->
+    <key>NSLocationAlwaysUsageDescription</key>
+    <string>We need your location to show nearby historical sites and provide directions</string>
+
+    <!-- iOS 11+ -->
+    <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+    <string>We need your location to show nearby historical sites and provide directions</string>
+
+    <!-- Location accuracy (iOS 14+) -->
+    <key>NSLocationTemporaryUsageDescriptionDictionary</key>
+    <dict>
+        <key>ExploreNearby</key>
+        <string>We need precise location to show you the most accurate directions to historical sites in Fes</string>
+    </dict>
+
+    <!-- ========================================= -->
+    <!-- NETWORK & VIDEO PERMISSIONS              -->
+    <!-- ========================================= -->
+
+    <!-- Allow HTTP video loading (for non-HTTPS URLs) -->
+    <key>NSAppTransportSecurity</key>
+    <dict>
+        <key>NSAllowsArbitraryLoads</key>
+        <true/>
+    </dict>
+
+</dict>
+</plist>

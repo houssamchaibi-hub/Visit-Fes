@@ -1,0 +1,25 @@
+# Flutter Localization Configuration File
+# Place this file in your project root (same level as pubspec.yaml)
+
+# Directory where .arb files are located
+arb-dir: lib/l10n
+
+# The template ARB file (English is used as the template)
+template-arb-file: app_en.arb
+
+# Name of the generated localization file
+output-localization-file: app_localizations.dart
+
+# Preferred supported locales (in order of preference)
+preferred-supported-locales:
+  - en
+  - ar
+  - fr
+  - es
+  - de
+
+# Whether to generate nullable getters
+nullable-getter: false
+
+# Use synthetic package (recommended for Flutter 3.0+)
+synthetic-package: false
