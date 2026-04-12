@@ -25,22 +25,40 @@
 ## 📸 App Screens
 
 ### 🚀 Start Screen
-![Startbildschirm](screenshots/Startbildschirm.png.jpeg)
+![Start](screenshots/01_start.jpeg)
 
-### 🏠 Home
-![Startseite](screenshots/Startseite%20%E2%80%93%20Allgemeine%20Informationen%20%26%20Top-Attraktionen.png.jpeg)
+### 🏠 Home – Info & Attractions
+![Home Info](screenshots/02_home_info.jpeg)
+
+### 🏠 Home – Transport & Culture
+![Home Transport](screenshots/03_home_transport.jpeg)
 
 ### 🏛️ Historic Sites
-![Historische Stätten](screenshots/Historische%20St%C3%A4tten%20%E2%80%93%20Listenansicht.png.jpeg)
+![Historic Sites](screenshots/04_historic.jpeg)
+
+### 🕌 Al-Qarawiyyin – Detail
+![Al-Qarawiyyin](screenshots/05_qarawiyyin.jpeg)
+
+### 🕌 Al-Qarawiyyin – More Info
+![Al-Qarawiyyin Detail](screenshots/06_qarawiyyin_detail.jpeg)
 
 ### ❤️ Favorites
-![Meine Favoriten](screenshots/.%20Meine%20Favoriten%20%E2%80%93%20Alle%20gespeicherten%20Eintr%C3%A4ge.png.jpeg)
+![Favorites](screenshots/07_favorites.jpeg)
+
+### 🔍 Favorites – Search
+![Favorites Search](screenshots/08_favorites_search.jpeg)
 
 ### 👤 Account
-![Mein Konto](screenshots/.%20Mein%20Konto%20%E2%80%93%20%C3%9Cbersicht.png.jpeg)
+![Account](screenshots/09_account.jpeg)
 
-### 🗺️ Map
-![Karte](screenshots/Karte%20%E2%80%93%20Gesamtübersicht%20der%20Sehenswürdigkeiten.png.jpeg)
+### 🌍 Language Selector
+![Language](screenshots/10_language.jpeg)
+
+### 🗺️ Map – Overview
+![Map](screenshots/11_map.jpeg)
+
+### 🗺️ Map – Search
+![Map Search](screenshots/12_map_search.jpeg)
 
 ---
 
