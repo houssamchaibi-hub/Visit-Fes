@@ -24,13 +24,23 @@
 
 ## 📸 App Screens
 
-| Startbildschirm | Startseite | Historische Stätten |
-|---|---|---|
-| Welcome screen with "Get Started" | Overview of Fes with categories | List of historic sites with filters |
+### 🚀 Start Screen
+![Startbildschirm](screenshots/Startbildschirm.png.jpeg)
 
-| Meine Favoriten | Karte | Mein Konto |
-|---|---|---|
-| Saved places, food & hotels | Full map with markers & search | Profile, language selector & settings |
+### 🏠 Home
+![Startseite](screenshots/Startseite%20%E2%80%93%20Allgemeine%20Informationen%20%26%20Top-Attraktionen.png.jpeg)
+
+### 🏛️ Historic Sites
+![Historische Stätten](screenshots/Historische%20St%C3%A4tten%20%E2%80%93%20Listenansicht.png.jpeg)
+
+### ❤️ Favorites
+![Meine Favoriten](screenshots/.%20Meine%20Favoriten%20%E2%80%93%20Alle%20gespeicherten%20Eintr%C3%A4ge.png.jpeg)
+
+### 👤 Account
+![Mein Konto](screenshots/.%20Mein%20Konto%20%E2%80%93%20%C3%9Cbersicht.png.jpeg)
+
+### 🗺️ Map
+![Karte](screenshots/Karte%20%E2%80%93%20Gesamtübersicht%20der%20Sehenswürdigkeiten.png.jpeg)
 
 ---
 
@@ -47,7 +57,7 @@
 
 ## 🚀 Getting Started
 
-```bash
+\`\`\`bash
 # Clone the repository
 git clone https://github.com/houssamchaibi-hub/Visit-Fes.git
 
@@ -59,20 +69,20 @@ flutter pub get
 
 # Run the app
 flutter run
-```
+\`\`\`
 
 ---
 
 ## 📂 Project Structure
 
-```
+\`\`\`
 lib/
 ├── screens/         # All app screens (home, map, favorites, account...)
 ├── widgets/         # Reusable UI components
 ├── models/          # Data models
 ├── services/        # API & map services
 └── main.dart        # Entry point
-```
+\`\`\`
 
 ---
 
