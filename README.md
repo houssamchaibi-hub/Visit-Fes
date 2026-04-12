@@ -25,40 +25,40 @@
 ## 📸 App Screens
 
 ### 🚀 Start Screen
-![Start](screenshots/01_start.jpeg)
+![Start](https://raw.githubusercontent.com/houssamchaibi-hub/Visit-Fes/main/assets/screenshots/01_start.jpeg)
 
 ### 🏠 Home – Info & Attractions
-![Home Info](screenshots/02_home_info.jpeg)
+![Home Info](https://raw.githubusercontent.com/houssamchaibi-hub/Visit-Fes/main/assets/screenshots/02_home_info.jpeg)
 
 ### 🏠 Home – Transport & Culture
-![Home Transport](screenshots/03_home_transport.jpeg)
+![Home Transport](https://raw.githubusercontent.com/houssamchaibi-hub/Visit-Fes/main/assets/screenshots/03_home_transport.jpeg)
 
 ### 🏛️ Historic Sites
-![Historic Sites](screenshots/04_historic.jpeg)
+![Historic Sites](https://raw.githubusercontent.com/houssamchaibi-hub/Visit-Fes/main/assets/screenshots/04_historic.jpeg)
 
 ### 🕌 Al-Qarawiyyin – Detail
-![Al-Qarawiyyin](screenshots/05_qarawiyyin.jpeg)
+![Al-Qarawiyyin](https://raw.githubusercontent.com/houssamchaibi-hub/Visit-Fes/main/assets/screenshots/05_qarawiyyin.jpeg)
 
 ### 🕌 Al-Qarawiyyin – More Info
-![Al-Qarawiyyin Detail](screenshots/06_qarawiyyin_detail.jpeg)
+![Al-Qarawiyyin Detail](https://raw.githubusercontent.com/houssamchaibi-hub/Visit-Fes/main/assets/screenshots/06_qarawiyyin_detail.jpeg)
 
 ### ❤️ Favorites
-![Favorites](screenshots/07_favorites.jpeg)
+![Favorites](https://raw.githubusercontent.com/houssamchaibi-hub/Visit-Fes/main/assets/screenshots/07_favorites.jpeg)
 
 ### 🔍 Favorites – Search
-![Favorites Search](screenshots/08_favorites_search.jpeg)
+![Favorites Search](https://raw.githubusercontent.com/houssamchaibi-hub/Visit-Fes/main/assets/screenshots/08_favorites_search.jpeg)
 
 ### 👤 Account
-![Account](screenshots/09_account.jpeg)
+![Account](https://raw.githubusercontent.com/houssamchaibi-hub/Visit-Fes/main/assets/screenshots/09_account.jpeg)
 
 ### 🌍 Language Selector
-![Language](screenshots/10_language.jpeg)
+![Language](https://raw.githubusercontent.com/houssamchaibi-hub/Visit-Fes/main/assets/screenshots/10_language.jpeg)
 
 ### 🗺️ Map – Overview
-![Map](screenshots/11_map.jpeg)
+![Map](https://raw.githubusercontent.com/houssamchaibi-hub/Visit-Fes/main/assets/screenshots/11_map.jpeg)
 
 ### 🗺️ Map – Search
-![Map Search](screenshots/12_map_search.jpeg)
+![Map Search](https://raw.githubusercontent.com/houssamchaibi-hub/Visit-Fes/main/assets/screenshots/12_map_search.jpeg)
 
 ---
 
