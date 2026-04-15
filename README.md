@@ -200,7 +200,7 @@ Self-taught Flutter Developer | Fes, Morocco
 I am a passionate junior mobile developer focused on building clean, user-friendly Flutter applications. *Visit Fes* is one of my flagship personal projects, demonstrating my ability to independently design, develop, and ship a full-featured cross-platform app — from UI design and API integration to multi-language support and project architecture.
 
 📧 houssamchaibi2006@gmail.com
-🐙 [github.com/houssamchaibi-hub](https://github.com/houssamchaibi-hub)
+ [github.com/houssamchaibi-hub](https://github.com/houssamchaibi-hub)
 
 ---
 
