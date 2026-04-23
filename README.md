@@ -1,10 +1,10 @@
-# 🕌 Visit Fes – Mobile Travel Guide
+#  Visit Fes – Mobile Travel Guide
 
 > A Flutter tourism app to discover the historic city of Fes, Morocco.
 
 ---
 
-## 📱 About the App
+##  About the App
 
 **Visit Fes** is a mobile travel guide built with Flutter & Dart, designed to help tourists explore the cultural and historical richness of Fes, Morocco. The app provides a complete digital experience — from discovering historic sites to navigating the city with an interactive map.
 
